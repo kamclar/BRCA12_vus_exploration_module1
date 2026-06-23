@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="590" viewBox="0 0 650 590">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #172033; }
+.small { font-size: 11px; }
+.label { font-size: 12px; }
+.title { font-size: 18px; font-weight: 700; }
+.axis { stroke: #9aa4b2; stroke-width: 1; }
+.grid { stroke: #e2e8f0; stroke-width: 1; }
+</style>
+<rect x="0" y="0" width="650" height="590" fill="#ffffff"/>
+<text x="30" y="32" class="title">Criteria by predicted class</text>
+<text x="150" y="52" class="small">Class</text>
+<text x="154" y="60" class="small">1</text>
+<text x="246" y="60" class="small">2</text>
+<text x="338" y="60" class="small">3</text>
+<text x="430" y="60" class="small">4</text>
+<text x="522" y="60" class="small">5</text>
+<text x="20" y="90" class="small">BA1</text>
+<rect x="150" y="70" width="90" height="28" fill="#eff4fb"/>
+<text x="156" y="89" class="small">48</text>
+<rect x="242" y="70" width="90" height="28" fill="#f7fafc"/>
+<rect x="334" y="70" width="90" height="28" fill="#f7fafc"/>
+<rect x="426" y="70" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="70" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="120" class="small">BS1_Strong</text>
+<rect x="150" y="100" width="90" height="28" fill="#ecf2fb"/>
+<text x="156" y="119" class="small">97</text>
+<rect x="242" y="100" width="90" height="28" fill="#f5f9fc"/>
+<text x="248" y="119" class="small">2</text>
+<rect x="334" y="100" width="90" height="28" fill="#f5f9fc"/>
+<text x="340" y="119" class="small">2</text>
+<rect x="426" y="100" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="100" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="150" class="small">BS1_Supporting</text>
+<rect x="150" y="130" width="90" height="28" fill="#f1f6fc"/>
+<text x="156" y="149" class="small">29</text>
+<rect x="242" y="130" width="90" height="28" fill="#ecf2fb"/>
+<text x="248" y="149" class="small">100</text>
+<rect x="334" y="130" width="90" height="28" fill="#f3f7fc"/>
+<text x="340" y="149" class="small">11</text>
+<rect x="426" y="130" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="130" width="90" height="28" fill="#f6f9fc"/>
+<text x="524" y="149" class="small">1</text>
+<text x="20" y="180" class="small">BS3</text>
+<rect x="150" y="160" width="90" height="28" fill="#dee8fa"/>
+<text x="156" y="179" class="small">495</text>
+<rect x="242" y="160" width="90" height="28" fill="#c6d7f8"/>
+<text x="248" y="179" class="small">1861</text>
+<rect x="334" y="160" width="90" height="28" fill="#e8effb"/>
+<text x="340" y="179" class="small">172</text>
+<rect x="426" y="160" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="160" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="210" class="small">BP1</text>
+<rect x="150" y="190" width="90" height="28" fill="#d9e4fa"/>
+<text x="156" y="209" class="small">710</text>
+<rect x="242" y="190" width="90" height="28" fill="#2563eb"/>
+<text x="248" y="209" class="small">34145</text>
+<rect x="334" y="190" width="90" height="28" fill="#f7fafc"/>
+<rect x="426" y="190" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="190" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="240" class="small">BP4</text>
+<rect x="150" y="220" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="220" width="90" height="28" fill="#eaf1fb"/>
+<text x="248" y="239" class="small">128</text>
+<rect x="334" y="220" width="90" height="28" fill="#ceddf9"/>
+<text x="340" y="239" class="small">1276</text>
+<rect x="426" y="220" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="220" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="270" class="small">BP5</text>
+<rect x="150" y="250" width="90" height="28" fill="#e2ebfa"/>
+<text x="156" y="269" class="small">337</text>
+<rect x="242" y="250" width="90" height="28" fill="#e9f0fb"/>
+<text x="248" y="269" class="small">151</text>
+<rect x="334" y="250" width="90" height="28" fill="#f1f6fc"/>
+<text x="340" y="269" class="small">26</text>
+<rect x="426" y="250" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="250" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="300" class="small">BP7</text>
+<rect x="150" y="280" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="280" width="90" height="28" fill="#eaf1fb"/>
+<text x="248" y="299" class="small">128</text>
+<rect x="334" y="280" width="90" height="28" fill="#ceddf9"/>
+<text x="340" y="299" class="small">1276</text>
+<rect x="426" y="280" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="280" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="330" class="small">PM2_Supporting</text>
+<rect x="150" y="310" width="90" height="28" fill="#e2ebfa"/>
+<text x="156" y="329" class="small">328</text>
+<rect x="242" y="310" width="90" height="28" fill="#2966eb"/>
+<text x="248" y="329" class="small">32978</text>
+<rect x="334" y="310" width="90" height="28" fill="#94b3f4"/>
+<text x="340" y="329" class="small">7545</text>
+<rect x="426" y="310" width="90" height="28" fill="#eaf0fb"/>
+<text x="432" y="329" class="small">136</text>
+<rect x="518" y="310" width="90" height="28" fill="#c2d4f8"/>
+<text x="524" y="329" class="small">2179</text>
+<text x="20" y="360" class="small">PM5_PTC</text>
+<rect x="150" y="340" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="340" width="90" height="28" fill="#f7fafc"/>
+<rect x="334" y="340" width="90" height="28" fill="#f7fafc"/>
+<rect x="426" y="340" width="90" height="28" fill="#f6f9fc"/>
+<text x="432" y="359" class="small">1</text>
+<rect x="518" y="340" width="90" height="28" fill="#c1d3f8"/>
+<text x="524" y="359" class="small">2240</text>
+<text x="20" y="390" class="small">PP3</text>
+<rect x="150" y="370" width="90" height="28" fill="#f5f9fc"/>
+<text x="156" y="389" class="small">2</text>
+<rect x="242" y="370" width="90" height="28" fill="#eaf1fb"/>
+<text x="248" y="389" class="small">126</text>
+<rect x="334" y="370" width="90" height="28" fill="#d6e2f9"/>
+<text x="340" y="389" class="small">854</text>
+<rect x="426" y="370" width="90" height="28" fill="#eef3fb"/>
+<text x="432" y="389" class="small">66</text>
+<rect x="518" y="370" width="90" height="28" fill="#f3f7fc"/>
+<text x="524" y="389" class="small">12</text>
+<text x="20" y="420" class="small">PP4</text>
+<rect x="150" y="400" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="400" width="90" height="28" fill="#f7fafc"/>
+<rect x="334" y="400" width="90" height="28" fill="#f4f8fc"/>
+<text x="340" y="419" class="small">6</text>
+<rect x="426" y="400" width="90" height="28" fill="#f4f8fc"/>
+<text x="432" y="419" class="small">9</text>
+<rect x="518" y="400" width="90" height="28" fill="#f0f5fb"/>
+<text x="524" y="419" class="small">43</text>
+<text x="20" y="450" class="small">PS1</text>
+<rect x="150" y="430" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="430" width="90" height="28" fill="#f7fafc"/>
+<rect x="334" y="430" width="90" height="28" fill="#f4f8fc"/>
+<text x="340" y="449" class="small">5</text>
+<rect x="426" y="430" width="90" height="28" fill="#f5f9fc"/>
+<text x="432" y="449" class="small">2</text>
+<rect x="518" y="430" width="90" height="28" fill="#f7fafc"/>
+<text x="20" y="480" class="small">PS3</text>
+<rect x="150" y="460" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="460" width="90" height="28" fill="#f6f9fc"/>
+<text x="248" y="479" class="small">1</text>
+<rect x="334" y="460" width="90" height="28" fill="#dfe9fa"/>
+<text x="340" y="479" class="small">448</text>
+<rect x="426" y="460" width="90" height="28" fill="#eef4fb"/>
+<text x="432" y="479" class="small">63</text>
+<rect x="518" y="460" width="90" height="28" fill="#e7effb"/>
+<text x="524" y="479" class="small">187</text>
+<text x="20" y="510" class="small">PVS1</text>
+<rect x="150" y="490" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="490" width="90" height="28" fill="#f7fafc"/>
+<rect x="334" y="490" width="90" height="28" fill="#f6f9fc"/>
+<text x="340" y="509" class="small">1</text>
+<rect x="426" y="490" width="90" height="28" fill="#eef3fb"/>
+<text x="432" y="509" class="small">69</text>
+<rect x="518" y="490" width="90" height="28" fill="#c1d3f8"/>
+<text x="524" y="509" class="small">2257</text>
+</svg>

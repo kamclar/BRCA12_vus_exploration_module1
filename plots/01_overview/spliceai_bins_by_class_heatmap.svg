@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="350" viewBox="0 0 650 350">
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #172033; }
+.small { font-size: 11px; }
+.label { font-size: 12px; }
+.title { font-size: 18px; font-weight: 700; }
+.axis { stroke: #9aa4b2; stroke-width: 1; }
+.grid { stroke: #e2e8f0; stroke-width: 1; }
+</style>
+<rect x="0" y="0" width="650" height="350" fill="#ffffff"/>
+<text x="30" y="32" class="title">SpliceAI score bins by predicted class</text>
+<text x="150" y="52" class="small">Class</text>
+<text x="154" y="60" class="small">1</text>
+<text x="246" y="60" class="small">2</text>
+<text x="338" y="60" class="small">3</text>
+<text x="430" y="60" class="small">4</text>
+<text x="522" y="60" class="small">5</text>
+<text x="20" y="90" class="small">0</text>
+<rect x="150" y="70" width="90" height="28" fill="#d9e5fa"/>
+<text x="156" y="89" class="small">564</text>
+<rect x="242" y="70" width="90" height="28" fill="#2563eb"/>
+<text x="248" y="89" class="small">28429</text>
+<rect x="334" y="70" width="90" height="28" fill="#b2c8f6"/>
+<text x="340" y="89" class="small">3075</text>
+<rect x="426" y="70" width="90" height="28" fill="#f2f6fc"/>
+<text x="432" y="89" class="small">18</text>
+<rect x="518" y="70" width="90" height="28" fill="#c7d8f8"/>
+<text x="524" y="89" class="small">1461</text>
+<text x="20" y="120" class="small">0-0.099</text>
+<rect x="150" y="100" width="90" height="28" fill="#e4ecfa"/>
+<text x="156" y="119" class="small">229</text>
+<rect x="242" y="100" width="90" height="28" fill="#8daef3"/>
+<text x="248" y="119" class="small">7288</text>
+<rect x="334" y="100" width="90" height="28" fill="#b1c7f6"/>
+<text x="340" y="119" class="small">3196</text>
+<rect x="426" y="100" width="90" height="28" fill="#eff4fb"/>
+<text x="432" y="119" class="small">40</text>
+<rect x="518" y="100" width="90" height="28" fill="#d9e4fa"/>
+<text x="524" y="119" class="small">581</text>
+<text x="20" y="150" class="small">0.10-0.199</text>
+<rect x="150" y="130" width="90" height="28" fill="#f4f8fc"/>
+<text x="156" y="149" class="small">7</text>
+<rect x="242" y="130" width="90" height="28" fill="#e1eafa"/>
+<text x="248" y="149" class="small">307</text>
+<rect x="334" y="130" width="90" height="28" fill="#cfddf9"/>
+<text x="340" y="149" class="small">1017</text>
+<rect x="426" y="130" width="90" height="28" fill="#f3f7fc"/>
+<text x="432" y="149" class="small">8</text>
+<rect x="518" y="130" width="90" height="28" fill="#e9f0fb"/>
+<text x="524" y="149" class="small">122</text>
+<text x="20" y="180" class="small">0.20-0.499</text>
+<rect x="150" y="160" width="90" height="28" fill="#f5f9fc"/>
+<text x="156" y="179" class="small">2</text>
+<rect x="242" y="160" width="90" height="28" fill="#eaf1fb"/>
+<text x="248" y="179" class="small">102</text>
+<rect x="334" y="160" width="90" height="28" fill="#d8e4f9"/>
+<text x="340" y="179" class="small">616</text>
+<rect x="426" y="160" width="90" height="28" fill="#eff4fb"/>
+<text x="432" y="179" class="small">38</text>
+<rect x="518" y="160" width="90" height="28" fill="#ebf1fb"/>
+<text x="524" y="179" class="small">99</text>
+<text x="20" y="210" class="small">0.50-0.799</text>
+<rect x="150" y="190" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="190" width="90" height="28" fill="#f2f7fc"/>
+<text x="248" y="209" class="small">14</text>
+<rect x="334" y="190" width="90" height="28" fill="#e8effb"/>
+<text x="340" y="209" class="small">149</text>
+<rect x="426" y="190" width="90" height="28" fill="#f1f5fb"/>
+<text x="432" y="209" class="small">27</text>
+<rect x="518" y="190" width="90" height="28" fill="#f1f6fb"/>
+<text x="524" y="209" class="small">25</text>
+<text x="20" y="240" class="small">0.80-1.00</text>
+<rect x="150" y="220" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="220" width="90" height="28" fill="#f3f7fc"/>
+<text x="248" y="239" class="small">10</text>
+<rect x="334" y="220" width="90" height="28" fill="#eaf1fb"/>
+<text x="340" y="239" class="small">101</text>
+<rect x="426" y="220" width="90" height="28" fill="#f3f7fc"/>
+<text x="432" y="239" class="small">10</text>
+<rect x="518" y="220" width="90" height="28" fill="#f3f7fc"/>
+<text x="524" y="239" class="small">12</text>
+<text x="20" y="270" class="small">missing</text>
+<rect x="150" y="250" width="90" height="28" fill="#f7fafc"/>
+<rect x="242" y="250" width="90" height="28" fill="#f7fafc"/>
+<rect x="334" y="250" width="90" height="28" fill="#f7fafc"/>
+<rect x="426" y="250" width="90" height="28" fill="#f7fafc"/>
+<rect x="518" y="250" width="90" height="28" fill="#f7fafc"/>
+</svg>
