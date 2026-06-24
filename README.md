@@ -3,9 +3,8 @@
 
 ## Scope
 
-This storage contains an exploratory analysis of a precomputed ARIANE Module 1
-BRCA1/2 coding SNV map. The dataset is intended for possible review-triage research and
-method documentation. 
+This repository contains an exploratory analysis of a precomputed ARIANE Module 1 dataset covering coding SNVs in BRCA1 and BRCA2. Module 1 applies only automatable ACMG/ENIGMA criteria; therefore, the resulting classifications represent a model-generated landscape rather than clinical classifications or biological truth. Even with complete criteria coverage, classifications would remain evidence-based interpretations rather than direct representations of biological reality. The framework may later be extended to the full criteria coverage.
+
 
 
 ## Main Input And Output Files
